@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Мария Ковальчук](https://up.htmlacademy.ru/htmlcss/27/user/1243301).
-* Наставник: `Неизвестно`.
+* Наставник: [Иван Мулярчик](https://htmlacademy.ru/profile/ivanmuliarchyk)
 
 ---
 
