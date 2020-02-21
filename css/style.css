@@ -67,12 +67,14 @@ a {
   font-size: 21px;
   line-height: 26px;
   color: black;
+  text-align: center;
 }
 
 .main-title p {
   font-size: 14px;
   line-height: 26px;
   color: #333333;
+  text-align: center;
 }
 
 .reason-1-2 {
@@ -150,6 +152,11 @@ a {
 
 .social-button {
   color: #81b3d2;
+}
+
+advantages-list {
+  background-color: white;
+
 }
 
 .advantages-list li {
