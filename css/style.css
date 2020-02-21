@@ -133,7 +133,7 @@ a {
 
 }
 
-.advantages-item .span {
+.advantages-item span {
   font-size: 21px;
   line-height: 21px;
   text-align: center;
@@ -143,6 +143,11 @@ a {
   font-size: 14px;
   line-height: 21px;
   text-align: center;
-  color: dark-forest-green-20
+  color: dark-forest-green-20;
+
+}
+
+.advantages-item img {
+  text-align: center;
 
 }
