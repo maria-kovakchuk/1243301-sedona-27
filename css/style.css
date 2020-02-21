@@ -30,25 +30,6 @@ body {
   background-color: #766357;
 }
 
-.button1 {
-  font: inherit;
-
-  text-align: center;
-  color: #ffffff;
-  vertical-align: middle;
-  text-transform: uppercase;
-
-  background-color: #ffffff;
-  border: none;
-}
-
-.button1:hover,
-.button1:focus,
-.button1:active {
-  background-color: #81b3d2
-}
-
-
 a {
   text-decoration: none;
 }
@@ -145,4 +126,9 @@ a {
 
 .social-button {
   color: #81b3d2;
+}
+
+.advantages-list ul {
+  list-style: none;
+
 }
