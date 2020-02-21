@@ -33,7 +33,7 @@ a {
 
 .site-navigation a:hover,
 .site-navigation a:focus {
-  background-color: green;
+  background-color: darkgrey;
 }
 
 .white-patch {
