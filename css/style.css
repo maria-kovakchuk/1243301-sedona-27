@@ -12,6 +12,24 @@ body {
   background-color: #f2f2f2;
 }
 
+.button {
+  font: inherit;
+
+  text-align: center;
+  color: #ffffff;
+  vertical-align: middle;
+  text-transform: uppercase;
+
+  background-color: #ffffff;
+  border: none;
+}
+
+.button:hover,
+.button:focus,
+.button:active {
+  background-color: #663d15;
+}
+
 a {
   text-decoration: none;
 }
@@ -68,16 +86,17 @@ a {
 }
 
 .search-hotel {
-  background-color: #766357;
   font-size: 21px;
   line-height: 26px;
+  text-align: center;
+  background-color: #766357;
 }
 
 .appointment-item input {
   font: inherit;
 
   background-color: transparent;
-  border: 1px solid transparent;
+  border: none;
 }
 
 .appointment-item input:focus {
