@@ -76,18 +76,17 @@ a {
 }
 
 .reason-1-2 {
-  background-color: #81b3d2
-  background-position: 0 0;
+  background-color: #81b3d2;
 }
 
-reason-1-2 h2 {
+.reason-1-2 h2 {
   font-size: 21px;
   line-height: 21px;
   color: #ffffff
   text-align: center;
 }
 
-reason-1-2 p {
+.reason-1-2 p {
   font-size: 14px;
   line-height: 21px;
   color: #f2f2f2
