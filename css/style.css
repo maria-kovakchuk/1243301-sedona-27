@@ -95,6 +95,34 @@ a {
   text-align: center;
 }
 
+advantages-list {
+  background-color: white;
+
+}
+
+.advantages-list li {
+  list-style: none;
+
+}
+
+.advantages-item span {
+  font-size: 21px;
+  line-height: 21px;
+  text-align: center;
+}
+
+.advantages-item p {
+  font-size: 14px;
+  line-height: 21px;
+  text-align: center;
+  color: #333333;
+
+}
+
+.advantages-list img {
+  text-align: center;
+
+}
 
 .you-interested {
   background-color: #ffffff;
@@ -154,34 +182,6 @@ a {
   color: #81b3d2;
 }
 
-advantages-list {
-  background-color: white;
-
-}
-
-.advantages-list li {
-  list-style: none;
-
-}
-
-.advantages-item span {
-  font-size: 21px;
-  line-height: 21px;
-  text-align: center;
-}
-
-.advantages-item p {
-  font-size: 14px;
-  line-height: 21px;
-  text-align: center;
-  color: #333333;
-
-}
-
-.advantages-list img {
-  text-align: center;
-
-}
 
 .main-footer {
   background-color: #ffffff;
