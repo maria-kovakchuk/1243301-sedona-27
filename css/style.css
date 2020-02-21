@@ -20,13 +20,8 @@ a {
   font-size: 14px;
   line-height: 26px;
   color: black;
-
   background-color: #f2f2f2;
 }
-
-
-
-
 
 .site-navigation {
   list-style: none;
@@ -38,7 +33,7 @@ a {
 
 .site-navigation a:hover,
 .site-navigation a:focus {
-  background-color: #f2f2f2;
+  background-color: green;
 }
 
 .white-patch {
