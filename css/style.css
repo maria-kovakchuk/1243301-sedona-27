@@ -143,11 +143,11 @@ a {
   font-size: 14px;
   line-height: 21px;
   text-align: center;
-  color: grey;
+  color: #333333;
 
 }
 
-.advantages-item img {
+.advantages-list img {
   text-align: center;
 
 }
