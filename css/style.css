@@ -126,7 +126,8 @@ advantages-list {
 
 .another-list-reasons {
 list-style: none;
-back-ground-color: white-four;
+background-color: white-four;
+color: white-four;
 }
 
 .reasons-3-4-5 {
@@ -154,6 +155,7 @@ text-align: center;
   font-size: 30px;
   line-height: 36px;
   color: black;
+  text-align: center;
 }
 
 .you-interested p {
