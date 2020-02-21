@@ -9,7 +9,7 @@ body {
   color: black;
   text-transform: uppercase;
 
-  background-color: #f2f2f2; (а-ля белый-серый)
+  background-color: #f2f2f2;
 }
 
 a {
@@ -21,8 +21,12 @@ a {
   line-height: 26px;
   color: black;
 
-.background-color: #f2f2f2;
+  background-color: #f2f2f2;
 }
+
+
+
+
 
 .site-navigation {
   list-style: none;
