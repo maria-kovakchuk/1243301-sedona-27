@@ -124,6 +124,27 @@ advantages-list {
 
 }
 
+.another-list-reasons {
+list-style: none;
+back-ground-color: white-four;
+}
+
+.reasons-3-4-5 {
+text-align: center;
+}
+
+.reasons-3-4-5 h2 {
+  font-size: 21px;
+  line-height: 21px;
+  font-weight: bold;
+}
+
+.reasons-3-4-5 p {
+  font-size: 14px;
+  line-height: 21px;
+
+}
+
 .you-interested {
   background-color: #ffffff;
   background-position: 0 0;
