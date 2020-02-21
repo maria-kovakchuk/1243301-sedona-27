@@ -88,30 +88,31 @@
           <p>Укажите предполагаемые даты поездки,<br> и мы покажем вам лучшие предложения гостиниц в Седоне</p>
           <button type="button" class="button search-hotel">Поиск гостиницы в Седоне</button>
       </section>
-      <section>
+      <section class="appointment">
         <form class="appointment-form" action="https://echo.htmlacademy.ru" method="post">
-          <div class="appointment-items">
+          <p class="appointment-item">
             <label for="arrival">Дата заезда:</label>
             <input type="text" id="arrival" name="arrival-date" value="24 апреля 2017">
-          </div>
-          <div class="appointment-items">
+          </p>
+          <p class="appointment-item">
             <label for="departure">Дата выезда:</label>
             <input type="text" id="departure" name="departure-date" value="4 июля 2017">
-          </div>
-          <div class="appointment-items">
+          </p>
+          <p class="appointment-item">
             <label for="adls">Взрослые:</label>
             <button type="button" class="icon-minus"></button>
             <input type="text" id="adls" name="adults" value="2">
             <button type="button" class="icon-plus"></button>
-          </div>
-          <div class="appointment-items">
+          </p>
+          <p class="appointment-item">
             <label for="chlds">Дети:</label>
             <button type="button" class="icon-minus"></button>
             <input type="text" id="chlds" name="childrens" value="0">
             <button type="button" class="icon-plus"></button>
-          </div>
+          </p>
           <button class="button find-hotel" type="submit">Найти</button>
         </form>
+        </section>
           <div>
            <img src="img/map.png" width="1200" height="594" alt="Карта Седоны">
           </div>
