@@ -36,20 +36,23 @@ a {
   background-color: darkgrey;
 }
 
-.white-patch {
-  background-color: white;
-  background-image: url("img/white-part.png");
+.white-part {
+  background-image: url("white-part.svg");
+
 }
 
-.white-patch h1 {
+.main-title {
+  background-color: white;
+}
 
+.main-title h1 {
   font-size: 21px;
   line-height: 26px;
   color: black;
 }
 
-.white-patch p {
-  font-size: 21px;
+.main-title p {
+  font-size: 14px;
   line-height: 26px;
   color: #333333;
 }
