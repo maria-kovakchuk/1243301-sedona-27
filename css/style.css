@@ -96,11 +96,11 @@ a {
   font: inherit;
 
   background-color: lightgrey;
-  border: none;
+  border: 1px solid lightgrey;
 }
 
 .appointment-item input:focus {
-  border-color: darkgrey;
+  border-color: lightgrey;
 }
 
 .find-hotel {
