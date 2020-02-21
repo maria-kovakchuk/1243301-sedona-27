@@ -151,3 +151,30 @@ a {
   text-align: center;
 
 }
+
+.main-footer {
+  background-color: #ffffff;
+  background-position: 0 0;
+}
+
+.footer-contacts a {
+  color: black;
+
+}
+
+.footer-contacts a:hover,
+.footer-contacts a:focus {
+  text-decoration: none;
+}
+
+.footer-social {
+  text-align: center;
+}
+
+.footer-social ul {
+  list-style: none;
+}
+
+.social-button {
+  color: black;
+}
