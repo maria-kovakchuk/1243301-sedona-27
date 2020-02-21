@@ -95,12 +95,12 @@ a {
 .appointment-item input {
   font: inherit;
 
-  background-color: transparent;
+  background-color: lightgrey;
   border: none;
 }
 
 .appointment-item input:focus {
-  border-color: transparent;
+  border-color: darkgrey;
 }
 
 .find-hotel {
