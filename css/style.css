@@ -195,9 +195,9 @@ text-align: center;
   border: none;
   width: 346px;
   height:38px;
-  margin-left: 167px;
-  margin-top: 55px;
-  margin-right: 55px;
+  margin-left: 5px;
+  margin-top: 5px;
+  margin-right: 5px;
 }
 
 .appointment-item input:focus {
@@ -212,15 +212,11 @@ text-align: center;
   width: 80%;
 }
 
-input [type="submit"] {
-  display: inline-block;
-  width: 100%;
-  height: auto;
-  margin: 0 5px;
-  padding: 6px 15px;
-
-color: white;
-background-color: #81b3d2;
+.label-title {
+  font-size: 14px;
+  line-height: 26px;
+  text-align: center;
+  margin: 10px;
 }
 
 .find-hotel {
