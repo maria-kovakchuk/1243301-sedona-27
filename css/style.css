@@ -177,6 +177,11 @@ text-align: center;
   border-color: lightgrey;
 }
 
+.half-width {
+  width: 50%;
+  display: inline-block;
+  margin-right: -4px;
+}
 .find-hotel {
   background-color: #81b3d2;
   font-size: 21px;
