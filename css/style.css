@@ -64,6 +64,10 @@ a {
 
 }
 
+.main-title {
+  background-color: #ffffff;
+  background-position: 0 0;
+}
 .main-title h1 {
   font-size: 21px;
   line-height: 26px;
