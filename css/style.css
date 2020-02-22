@@ -23,8 +23,6 @@ body {
   background-color: #ffffff;
   border: none;
 
-  width: 300px;
-  margin: 0 auto;
 }
 
 .button:hover,
@@ -172,7 +170,7 @@ text-align: center;
   font: inherit;
 
   background-color: lightgrey;
-  border: 1px solid black;
+  border: none;
 }
 
 .appointment-item input:focus {
