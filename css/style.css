@@ -58,13 +58,14 @@ a {
   color: #81b3d2;
 }
 
-.white-part {
-  background-image: url("white-part.svg");
 
+.main-picture-sedona img {
+  background-position: 0 0;
 }
 
 .main-title {
-  background-color: white;
+  background-image: url("white-part.png");
+  background-position: 0 0;
 }
 
 .main-title h1 {
