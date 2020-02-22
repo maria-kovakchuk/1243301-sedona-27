@@ -35,15 +35,13 @@ a {
   text-decoration: none;
 }
 
-.main-header [
-  background-color: #f2f2f2;
-]
 
 .main-navigation {
   font-size: 14px;
   line-height: 26px;
   color: black;
-  background-color: #f2f2f2;
+  background-color: #ffffff;
+  background-position: 0 0;
 }
 
 .site-navigation {
