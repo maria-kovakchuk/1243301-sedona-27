@@ -180,12 +180,19 @@ text-align: center;
 .half-width {
   width: 50%;
   display: inline-block;
-  margin-right: -4px;
+  margin: 0 auto;
+}
+.half-width input {
+  width: 80%;
+}
+
+.half-width input[type="range"] {
+  width: 65%;
 }
 
 input [type="submit"] {
   display: inline-block;
-  width: auto;
+  width: 100%;
   height: auto;
   margin: 0 5px;
   padding: 6px 15px;
