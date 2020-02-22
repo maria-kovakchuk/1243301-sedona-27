@@ -1,0 +1,241 @@
+body {
+  margin: 0;
+  padding: 0;
+
+  font-family: "PT Sans", Arial, sans-serif;
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 700;
+  color: black;
+  text-transform: uppercase;
+
+  background-color: #f2f2f2;
+}
+
+.button {
+  font: inherit;
+
+  text-align: center;
+  color: #ffffff;
+  vertical-align: middle;
+  text-transform: uppercase;
+
+  background-color: #ffffff;
+  border: none;
+}
+
+.button:hover,
+.button:focus,
+.button:active {
+  background-color: #766357;
+}
+
+a {
+  text-decoration: none;
+}
+
+.main-navigation {
+  font-size: 14px;
+  line-height: 26px;
+  color: black;
+  background-color: #f2f2f2;
+}
+
+.site-navigation {
+  list-style: none;
+}
+
+.site-navigation a {
+  color: black;
+}
+
+.site-navigation a:hover,
+.site-navigation a:focus {
+  background-color: darkgrey;
+}
+
+.white-part {
+  background-image: url("white-part.svg");
+
+}
+
+.main-title {
+  background-color: white;
+}
+
+.main-title h1 {
+  font-size: 21px;
+  line-height: 26px;
+  color: black;
+  text-align: center;
+}
+
+.main-title p {
+  font-size: 14px;
+  line-height: 26px;
+  color: #333333;
+  text-align: center;
+}
+
+.reason-1-2 {
+  background-color: #81b3d2;
+}
+
+.reason-1-2 h2 {
+  font-size: 21px;
+  line-height: 21px;
+  color: #ffffff;
+  text-align: center;
+}
+
+.reason-1-2 p {
+  font-size: 14px;
+  line-height: 21px;
+  color: #f2f2f2;
+  text-align: center;
+}
+
+advantages-list {
+  background-color: white;
+
+}
+
+.advantages-list li {
+  list-style: none;
+
+}
+
+.advantages-item h2 {
+  font-size: 21px;
+  line-height: 21px;
+  text-align: center;
+}
+
+.advantages-item p {
+  font-size: 14px;
+  line-height: 21px;
+  text-align: center;
+  color: #333333;
+
+}
+
+.another-list-reasons {
+list-style: none;
+background-color: white-four;
+color: white-four;
+}
+
+.reasons-3-4-5 {
+text-align: center;
+}
+
+.reasons-3-4-5 h2 {
+  font-size: 21px;
+  line-height: 21px;
+  font-weight: bold;
+}
+
+.reasons-3-4-5 p {
+  font-size: 14px;
+  line-height: 21px;
+
+}
+
+.you-interested {
+  background-color: #ffffff;
+  background-position: 0 0;
+}
+
+.you-interested h2 {
+  font-size: 30px;
+  line-height: 36px;
+  color: black;
+  text-align: center;
+}
+
+.you-interested p {
+  color: #333333;
+  text-align: center;
+}
+
+.search-hotel {
+  font-size: 21px;
+  line-height: 26px;
+  text-align: center;
+  background-color: #766357;
+}
+
+.appointment-item input {
+  font: inherit;
+
+  background-color: lightgrey;
+  border: 1px solid black;
+}
+
+.appointment-item input:focus {
+  border-color: lightgrey;
+}
+
+.find-hotel {
+  background-color: #81b3d2;
+  font-size: 21px;
+  line-height: 26px;
+  text-align: center;
+}
+
+.footer-contacts {
+  font-size: 21px;
+  line-height: 26px;
+  color: black;
+}
+
+.footer-social {
+  text-align: center;
+}
+
+.footer-social ul {
+  list-style: none;
+}
+
+.social-button {
+  color: #81b3d2;
+}
+
+
+.main-footer {
+  background-color: #ffffff;
+  background-position: 0 0;
+}
+
+.footer-contacts a {
+  color: black;
+
+}
+
+.footer-contacts a:hover,
+.footer-contacts a:focus {
+  text-decoration: none;
+}
+
+.footer-social {
+  text-align: center;
+}
+
+.footer-social ul {
+  list-style: none;
+}
+
+.social-button {
+  color: black;
+}
+
+.footer-copyright {
+  text-align: center;
+}
+
+.footer-copyright .button:hover,
+.footer-copyright .button:focus {
+  color: #000000;
+
+  background-color: black;
+}
