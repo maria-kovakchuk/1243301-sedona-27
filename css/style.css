@@ -180,6 +180,14 @@ text-align: center;
 
 }
 
+.appointment-item {
+  font-size: 14px;
+  line-height: 26px;
+  text-align: center;
+  margin: 30px;
+
+}
+
 .appointment-item input {
   font: inherit;
 
