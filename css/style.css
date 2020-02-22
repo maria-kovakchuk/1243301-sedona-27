@@ -22,13 +22,13 @@ button {
 
   background-color: #ffffff;
   border: none;
-
+  margin: 20px;
 }
 
 button:hover,
 button:focus,
 button:active {
-  background-color: #766357;
+  background-color: #81b3d2;
 }
 
 a {
