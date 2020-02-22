@@ -193,9 +193,11 @@ text-align: center;
 
   background-color: #f2f2f2;
   border: none;
-  margin-left: 40px;
-  margin-top: 20px;
-  margin-right: 30px;
+  width: 346px;
+  height:38px;
+  margin-left: 5px;
+  margin-top: 5px;
+  margin-right: 35px;
 }
 
 .appointment-item input:focus {
