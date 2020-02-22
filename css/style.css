@@ -180,8 +180,18 @@ text-align: center;
 .half-width {
   width: 50%;
   display: inline-block;
-  margin-right: -4px;
+  margin: o auto;
 }
+
+input [type="submit"] {
+display: inline-block;
+margin: 0 5px;
+padding: 6 px 15px;
+
+color: white;
+background-color: #81b3d2;
+}
+
 .find-hotel {
   background-color: #81b3d2;
   font-size: 21px;
