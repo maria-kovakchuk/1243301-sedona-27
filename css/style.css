@@ -58,8 +58,10 @@ a {
   color: #81b3d2;
 }
 
-.white-patch {
-  background-image: url("white-part.png");
+.main-picture-sedona {
+ background-position: center;
+ background-image: url("img/white-part.png")
+
 }
 
 .main-title h1 {
