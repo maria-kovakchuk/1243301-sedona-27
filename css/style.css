@@ -52,7 +52,7 @@ a {
 
 .site-navigation a:hover,
 .site-navigation a:focus {
-  background-color: darkgrey;
+  background-color: lightgray;
   color: #81b3d2;
 }
 
