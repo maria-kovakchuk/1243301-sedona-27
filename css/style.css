@@ -179,14 +179,11 @@ text-align: center;
 
 .half-width {
   width: 50%;
-  display: inline-block;
-  margin: o auto;
 }
 
 input [type="submit"] {
 display: inline-block;
-margin: 0 5px;
-padding: 6 px 15px;
+margin: auto;
 
 color: white;
 background-color: #81b3d2;
