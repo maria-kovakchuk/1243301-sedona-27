@@ -212,15 +212,6 @@ text-align: center;
 
 }
 
-.half-width input {
-  font: inherit;
-
-  background-color: #f2f2f2;
-  border: none;
-  width: 162px;
-  height:38px;
-  
-}
 
 .find-hotel {
   width: 458px;
@@ -229,7 +220,7 @@ text-align: center;
   font-size: 21px;
   line-height: 26px;
   text-align: center;
-
+  margin: 10px;
 }
 
 .footer-contacts {
