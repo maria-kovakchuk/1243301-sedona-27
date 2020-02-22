@@ -160,6 +160,12 @@ text-align: center;
   text-align: center;
 }
 
+.hotel-button {
+  display: block;
+  width: 568px;
+  height: 86px;
+}
+
 .search-hotel {
   padding-top: 13px;
     font-size: 21px;
