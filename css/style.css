@@ -116,6 +116,7 @@ a {
   font-size: 21px;
   line-height: 21px;
   text-align: center;
+  color: #333333;
 }
 
 .advantages-item p {
@@ -145,7 +146,7 @@ text-align: center;
 .reasons-3-4-5 p {
   font-size: 14px;
   line-height: 21px;
-
+  color: #333333;
 }
 
 .you-interested {
