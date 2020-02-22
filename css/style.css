@@ -89,12 +89,14 @@ a {
 .reason-1-2 h2 {
   font-size: 21px;
   line-height: 21px;
+  font-weight: bold;
   color: #ffffff;
   text-align: center;
+
 }
 
 .reason-1-2 p {
-  font-size: 14px;
+  font-size: 21px;
   line-height: 21px;
   color: #f2f2f2;
   text-align: center;
