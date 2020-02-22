@@ -55,6 +55,9 @@ a {
   background-color: darkgrey;
 }
 
+.site-navigation-lightning:hover {
+  color: #81b3d2;
+}
 .white-part {
   background-image: url("white-part.svg");
 
