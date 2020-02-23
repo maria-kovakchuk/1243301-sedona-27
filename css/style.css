@@ -236,6 +236,9 @@ text-align: center;
   background-position: 0 0;
 }
 
+infrastructure-item li {
+  list-style: none;
+}
 .footer-contacts {
   font-size: 21px;
   line-height: 26px;
