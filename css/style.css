@@ -40,6 +40,13 @@ min-height: 100px;
 
 }
 
+.main-navigation {
+  display: flex;
+  flex-direction: column;
+  min-height: 100px;
+  background-color: transparent;
+}
+
 .main-logo {
 width: 140px;
 height: 72px;
@@ -68,10 +75,6 @@ order: 0;
   color: black;
 }
 
-.site-navigation {
-  display: flex;
-  flex-direction: column;
-}
 
 
 .site-navigation a:hover,
