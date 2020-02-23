@@ -185,6 +185,15 @@ text-align: center;
   background-color: #81b3d2;
 }
 
+.click {
+  font-size: 14px;
+  line-height: 21px;
+  color: #ffffff;
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+}
+
 .appointment-item {
   font-size: 14px;
   line-height: 26px;
