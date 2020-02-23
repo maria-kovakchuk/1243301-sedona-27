@@ -40,7 +40,7 @@ a {
   flex-direction: column;
   justify-content: space-around;
   align-item: center;
-
+  width: 1200px;
 }
 
 
