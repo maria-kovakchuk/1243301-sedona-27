@@ -194,6 +194,15 @@ text-align: center;
   padding: 5px;
 }
 
+.rating {
+  font-size: 14px;
+  line-height: 21px;
+  color: #666666
+  text-align: center;
+  margin: 5px;
+  padding: 5px;
+
+}
 
 .appointment-item {
   font-size: 14px;
@@ -249,6 +258,22 @@ text-align: center;
 .amara-resort {
   background-color: #ffffff;
   background-position: 0 0;
+}
+
+.desert-quil-inn {
+  background-color: #ffffff;
+  background-position: 0 0;
+}
+
+.desert-quil-inn {
+  background-color: #ffffff;
+  background-position: 0 0;
+}
+
+.villas-at-poco {
+  background-color: #ffffff;
+  background-position: 0 0;
+
 }
 
 .infrastructure-item li {
