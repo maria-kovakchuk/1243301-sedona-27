@@ -44,6 +44,7 @@ margin-bottom: 10px;
 .main-logo img {
 width: 140px;
 height: 72px;
+order: 0;
 }
 
 .main-navigation {
@@ -78,6 +79,11 @@ height: 72px;
 .site-navigation a:focus {
   background-color: lightgray;
   color: #81b3d2;
+}
+
+.main-navigation-wrapper {
+width: 100%;
+min-height: 100px:
 }
 
 .main-picture-sedona {
