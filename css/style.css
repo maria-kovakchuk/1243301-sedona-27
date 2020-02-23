@@ -293,12 +293,18 @@ text-align: center;
   background-color: black;
 }
 
-form {
+.appointment-form form {
 width: 568px;
 height: 395px;
 margin: 0 auto;
 padding: 20px;
 
 background-color: white;
+
+}
+
+.inner-page form {
+  background-color: white;
+  background-position: 0 0;
 
 }
