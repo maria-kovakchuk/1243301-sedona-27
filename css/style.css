@@ -36,9 +36,7 @@ a {
 }
 
 .main-header {
-  display: flex;
-  flex-direction: column;
-  min-height: 100px;
+min-height: 100px;
 
 }
 
@@ -70,16 +68,18 @@ order: 0;
   color: black;
 }
 
+.site-navigation {
+  display: flex;
+  flex-direction: column;
+}
+
+
 .site-navigation a:hover,
 .site-navigation a:focus {
   background-color: lightgray;
   color: #81b3d2;
 }
 
-.main-navigation-wrapper {
-width: 100%;
-min-height: 100px;
-}
 
 .main-picture-sedona {
  background-position: center;
