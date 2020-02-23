@@ -35,12 +35,21 @@ a {
   text-decoration: none;
 }
 
-.main-navigation-wrapper {
+.main-header {
+min-height: 56px;
+margin-bottom: 10px;
+
+}
+
+.main-logo img {
+width: 140px;
+height: 72px;
+}
+
+.main-navigation {
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
-  align-item: center;
-  width: 1200px;
+
 }
 
 
@@ -48,7 +57,7 @@ a {
   font-size: 14px;
   line-height: 26px;
   color: black;
-  background-color: #ffffff;
+  background-color: transparent;
   background-position: 0 0;
 }
 
@@ -56,6 +65,7 @@ a {
 .site-navigation {
   list-style: none;
   width: 1200px;
+  min-height: 56px;
   margin: 0;
   padding: 0;
 }
