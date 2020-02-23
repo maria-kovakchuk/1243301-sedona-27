@@ -36,8 +36,9 @@ a {
 }
 
 .main-header {
-min-height: 100px;
-margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  min-height: 100px;
 
 }
 
@@ -45,13 +46,6 @@ margin-bottom: 10px;
 width: 140px;
 height: 72px;
 order: 0;
-}
-
-.main-navigation {
-  display: flex;
-  flex-direction: column;
-  min-height: 100px;
-
 }
 
 
