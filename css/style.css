@@ -28,7 +28,8 @@ a {
 }
 
 .site-navigation a,
-.hotels a {
+.hotels a,
+.sorting a {
   color: black;
 }
 
@@ -394,3 +395,15 @@ color: #669ec0;
     padding-bottom: 6px;
 
   }
+
+  .sorting-option a {
+    color: black-30;
+  }
+
+  .sorting-option:hover{
+    color: #669ec0;
+    }
+    
+    .sorting-option:active{
+      color: #000000;
+      }
