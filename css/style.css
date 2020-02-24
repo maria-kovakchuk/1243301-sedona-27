@@ -209,6 +209,7 @@ text-align: center;
 }
 
 .arrival-date {
+  display: block;
   margin-left: 55px;
   margin-top: 80px;
 }
