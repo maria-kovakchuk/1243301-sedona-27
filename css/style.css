@@ -198,8 +198,9 @@ text-align: center;
   text-align: center;
   width: 458px;
   height: 58px;
-  padding-right: 55px;
-  padding-left: 55px;
+  margin-right: 55px;
+  margin-left: 55px;
+  margin-bottom: 55px;
 }
 
 .footer-contacts {
