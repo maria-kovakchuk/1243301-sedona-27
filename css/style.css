@@ -150,11 +150,14 @@ text-align: center;
   background-color: white; 
 }
 
+.appointment-item {
+  width: 568px;
+  height: 395;
+}
+
 .appointment-item input {
   border: none;
-  background-color: #f2f2f2;
-  width: 568px;
-  height: 395; 
+  background-color: #f2f2f2; 
 }
 
 
