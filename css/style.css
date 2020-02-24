@@ -378,3 +378,16 @@ color: #669ec0;
 .name-hotels:active{
   color: #5496bd;
   }
+
+  .rating {
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    color: #666666;
+    background-color: #f2f2f2;
+    padding-left: 16px;
+    padding-right: 13px;
+    padding-top: 5px;
+    padding-bottom: 6px;
+
+  }
