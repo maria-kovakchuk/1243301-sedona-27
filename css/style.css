@@ -175,6 +175,7 @@ text-align: center;
   border: none;
   color: #ffffff;
   text-transform: uppercase;
+  font-weight: bold;
 }
 
 .button-brown:hover {
@@ -198,6 +199,7 @@ text-align: center;
   border: none;
   color: #ffffff;
   text-transform: uppercase;
+  font-weight: bold;
 }
 
 .button-blue:hover {
