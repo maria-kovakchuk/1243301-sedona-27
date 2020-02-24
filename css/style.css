@@ -292,3 +292,13 @@ background-color: #ebebeb;
   list-style: none;
 
 }
+
+.button-transparent {
+  background-color: transparent;
+  font-size: 14px;
+  line-height: 21px;
+  text-align: center;
+  border: 2px solid white-three;
+  color: white-three;
+  text-transform: uppercase;
+}
