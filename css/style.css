@@ -208,6 +208,11 @@ text-align: center;
   border-color: lightgrey;
 }
 
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
 .find-hotel {
   background-color: #81b3d2;
   font-size: 21px;
