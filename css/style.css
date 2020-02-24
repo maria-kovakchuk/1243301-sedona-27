@@ -285,3 +285,12 @@ background-color: #ebebeb;
 
   background-color: black;
 }
+
+
+.logo-htmlacademy:focus {
+  background-color: #81b3d2;
+}
+
+.logo-htmlacademy:active {
+  background-color: #bdbbbc;
+}
