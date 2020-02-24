@@ -158,9 +158,18 @@ text-align: center;
   text-align: center;
 }
 
+.appointment-item {
+  background-color: white;
+}
+
 .appointment-item input {
   border: none;
   background-color: #f2f2f2;
+
+}
+
+.half-width {
+  background-color: white;
 }
 
 .half-width input {
