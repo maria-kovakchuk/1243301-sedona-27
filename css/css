@@ -12,7 +12,7 @@ body {
   background-color: #f2f2f2;
 }
 
-button {
+.button {
   font: inherit;
 
   text-align: center;
@@ -25,9 +25,9 @@ button {
   postiom
 }
 
-button:hover,
-button:focus,
-button:active {
+.button:hover,
+.button:focus,
+.button:active {
   background-color: #766357;
 }
 
@@ -240,4 +240,3 @@ text-align: center;
 
   background-color: black;
 }
-
