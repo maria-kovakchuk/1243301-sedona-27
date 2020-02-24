@@ -10,7 +10,7 @@
   <body>
     <header class="main-header">
 		<nav class="main-navigation">
-		    <a href="index.html">
+		    <a class="main-header-logo" href="index.html">
 		      <img src="img/logo-sedona.svg" width="140" height="72" alt="Логотип Седона">
 		    </a>
         <ul class="site-navigation">
@@ -21,20 +21,22 @@
         </ul>
       </nav>
     </header>
-    <main>
+    <main class="container">
       <section>
-     <div class="sedona-picture">
-        <img src="img/mountains.png" width="1200" height="800" alt="Виды Седоны">
-    </div>
-    <div class="white-part"></div>
-		<div class="main-title">
-        <h1>Седона &ndash; небольшой городок в Аризоне, заслуживающий большего!</h1>
-        <p>Рассмотрим 5 причин, по которым Седона круче, чем Гранд Каньон.</p>
-    </div>
+        <div class="sedona-picture">
+          <img src="img/mountains.png" width="1200" height="800" alt="Виды Седоны">
+        </div>
+        <div class="white-part"></div>
       </section>
+      <section class="advantages">
+        <h2 class="visually-hidden">Преимущества</h2>
+		    <div class="main-title">
+          <h1>Седона &ndash; небольшой городок в Аризоне, заслуживающий большего!</h1>
+          <p>Рассмотрим 5 причин, по которым Седона круче, чем Гранд Каньон.</p>
+        </div>
       <section class="reasons-to-visit">
         <div class="reason-1-2">
-          <h2>Настоящий город</h2>
+          <h2>Настоящий городок</h2>
           <p>-№1-</p>
           <p>Седона Седона &ndash;не аттракцион для туристов, там течет своя жизнь</p>
         </div>
@@ -84,24 +86,26 @@
             </li>
           </ul>
         </div>
-      <section>
-        <h2 class="you-interested">Заинтересовались?</h2>
+      <section class="you-interested">
+        <h2>Заинтересовались?</h2>
         <p>Укажите предполагаемые даты поездки,<br> и мы покажем вам лучшие предложения гостиниц в Седоне</p>
         <button type="button" class="search-hotel">Поиск гостиницы в Седоне</button>
+        </section>
+        <section class="appointment-form">
         <form action="https://echo.htmlacademy.ru" method="post">
-          <p>
+          <p class="appointment-item">
             <label for="check-in">Дата заезда:</label>
             <input id="check-in" type="text" name="date" value="24 апреля 2017">
           </p>
-          <p>
+          <p class="appointment-item">
             <label for="check-out">Дата выезда:</label>
             <input id="check-out" type="text" name="date" value="4 июля 2017">
           </p>
-          <p>
+          <p class="half-width">
             <label for="adults">Взрослые:</label>
             <input id="adults" type="text" name="adults-quality" value="2">
           </p>
-          <p>
+          <p class="half-width">
             <label for="children">Дети:</label>
             <input id="children" type="text" name="children-quality" value="0">
           </p>
