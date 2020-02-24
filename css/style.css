@@ -195,6 +195,7 @@ background-color: #ebebeb;
 
 .button-brown:hover {
   background-color: #604e43;
+  color: #ffffff;
 }
 
 .button-brown:focus {
@@ -202,6 +203,7 @@ background-color: #ebebeb;
 }
 .button-brown:active {
   background-color: #503e33;
+  color: white-30;
 }
 
 .find-hotel {
@@ -284,13 +286,4 @@ background-color: #ebebeb;
   color: #000000;
 
   background-color: black;
-}
-
-
-.logo-htmlacademy img:hover {
-  background-color: #81b3d2;
-}
-
-.logo-htmlacademy img:active {
-  background-color: #bdbbbc;
 }
