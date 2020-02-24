@@ -28,7 +28,7 @@ a {
 }
 
 .site-navigation a,
-.hotels a {
+.name-hotels a {
   color: black;
 }
 
@@ -317,7 +317,7 @@ background-color: #ebebeb;
   padding-bottom: 11px;
 }
 
-.name-hotels a {
+.name-hotels h2 {
   font-size: 21px;
   line-height: 26px;
 
