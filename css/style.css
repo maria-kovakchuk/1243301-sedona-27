@@ -169,6 +169,14 @@ background-color: #ebebeb;
   background-color: #f2f2f2;
 }
 
+.half-width input:hover {
+  background-color: #ebebeb;
+  }
+  
+  .half-width input:focus {
+    background-color: #ffffff;
+    }
+
 
 .search-hotel {
   width: 568px;
