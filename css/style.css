@@ -35,47 +35,23 @@ a {
   text-decoration: none;
 }
 
-.main-header {
-min-height: 100px;
-
-}
-
-.main-navigation {
-  display: flex;
-  flex-direction: column;
-  min-height: 100px;
-  background-color: transparent;
-}
-
-.main-logo {
-width: 140px;
-height: 72px;
-order: 0;
-}
-
 
 .main-navigation {
   font-size: 14px;
   line-height: 26px;
   color: black;
-  background-color: transparent;
+  background-color: white;
   background-position: 0 0;
 }
 
 
 .site-navigation {
   list-style: none;
-  width: 1200px;
-  min-height: 56px;
-  margin: 0;
-  padding: 0;
 }
 
 .site-navigation a {
   color: black;
 }
-
-
 
 .site-navigation a:hover,
 .site-navigation a:focus {
