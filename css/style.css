@@ -211,6 +211,7 @@ text-align: center;
 label {
   display: block;
   margin-left: 50px;
+  margin-bottom: 60px;
 }
 
 .find-hotel {
