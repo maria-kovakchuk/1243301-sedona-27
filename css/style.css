@@ -200,6 +200,7 @@ background-color: #ebebeb;
 
 .button-brown:focus {
   background-color: #503e33;
+  color: white-30;
 }
 .button-brown:active {
   background-color: #503e33;
@@ -221,13 +222,16 @@ background-color: #ebebeb;
 
 .button-blue:hover {
   background-color: #669ec0;
+  color: #ffffff;
 }
 
 .button-blue:focus {
   background-color: #5496bd;
+  color: white-30;
 }
 .button-blue:active {
   background-color: #5496bd;
+  color: white-30;
 }
 
 
