@@ -176,25 +176,17 @@ text-align: center;
   background-color: white;
   margin-right: 316px;
   margin-left: 316px;
+  margin-top: 0px;
 
 }
-
-.appointment-item {
-  font: inherit;
-  width: 346px;
-  height: 38px;
-  margin-right: 55px;
-  margin-left: 167px;
-  margin-top: 55px;
-  margin-bottom: 29px;
-
-
 
 .appointment-item input {
   font: inherit;
 
   background-color: #f2f2f2;
   border: none;
+  width: 346px;
+  height: 38px;
  
 }
 
