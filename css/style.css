@@ -302,7 +302,7 @@ background-color: #ebebeb;
   text-align: center;
 }
 
-.features-list .features-item {
+.apartment-features ul {
   font-size: 14px;
   line-height: 21px;
   text-align: center;
