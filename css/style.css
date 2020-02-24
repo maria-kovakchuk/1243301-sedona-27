@@ -372,9 +372,9 @@ background-color: #ebebeb;
 }
 
 .name-hotels:hover{
-background-color: #669ec0;
+color: #669ec0;
 }
 
 .name-hotels:active{
-  background-color: #5496bd;
+  color: #5496bd;
   }
