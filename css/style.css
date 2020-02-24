@@ -179,6 +179,17 @@ text-align: center;
 
 }
 
+.appointment-item {
+  font: inherit;
+  width: 346px;
+  height: 38px;
+  margin-right: 55px;
+  margin-left: 167px;
+  margin-top: 55px;
+  margin-bottom: 29px;
+
+
+
 .appointment-item input {
   font: inherit;
 
