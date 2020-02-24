@@ -168,6 +168,13 @@ text-align: center;
   background-color: #766357;
 }
 
+.appointment-form {
+width: 568px;
+height: 395px;
+background-color: white;
+
+}
+
 .appointment-item input {
   font: inherit;
 
