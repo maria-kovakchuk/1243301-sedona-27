@@ -166,14 +166,16 @@ text-align: center;
   line-height: 26px;
   text-align: center;
   background-color: #766357;
-  margin: 316px;
+  margin-right: 316px;
+  margin-left: 316px;
 }
 
 .appointment-form {
-width: 568px;
-height: 395px;
-background-color: white;
-margin: 316px;
+  width: 568px;
+  height: 395px;
+  background-color: white;
+  margin-right: 316px;
+  margin-left: 316px;
 
 }
 
@@ -196,7 +198,8 @@ margin: 316px;
   text-align: center;
   width: 458px;
   height: 58px;
-  padding: 55px;
+  padding-right: 55px;
+  padding-left: 55px;
 }
 
 .footer-contacts {
