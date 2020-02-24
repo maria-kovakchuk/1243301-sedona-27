@@ -52,6 +52,7 @@ a {
 .site-navigation a:hover,
 .site-navigation a:focus {
   background-color: lightgrey;
+  color: #81b3d2;
 }
 
 .white-part {
