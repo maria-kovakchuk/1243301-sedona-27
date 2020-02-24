@@ -301,13 +301,6 @@ background-color: #ebebeb;
   text-align: center;
 }
 
-.features-list li {
-  font-size: 14px;
-  line-height: 21px;
-  text-align: center;
-
-}
-
 
 .button-transparent {
   background-color: transparent;
@@ -317,4 +310,42 @@ background-color: #ebebeb;
   border: 2px solid white-three;
   color: white-three;
   text-transform: uppercase;
+}
+
+.name-hotels {
+  font-size: 21px;
+  line-height: 26px;
+
+}
+
+.name-hotels p {
+  font-size: 14px;
+  line-height: 21px;
+  color: #333333;
+}
+
+.button-details {
+  width: 110px;
+  height: 27px;
+  font-size: 14px;
+  line-height: 21px;
+  text-align: center;
+  background-color: #81b3d2;
+  border: none;
+  color: #ffffff;
+  text-transform: uppercase;
+  
+}
+
+.button-book {
+  width: 110px;
+  height: 27px;
+  font-size: 14px;
+  line-height: 21px;
+  text-align: center;
+  background-color: #766357;
+  border: none;
+  color: #ffffff;
+  text-transform: uppercase;
+
 }
