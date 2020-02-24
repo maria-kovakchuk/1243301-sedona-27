@@ -400,10 +400,10 @@ color: #669ec0;
     color: black-30;
   }
 
-  .sorting-option:hover{
+  .sorting-option a:hover{
     color: #669ec0;
     }
     
-    .sorting-option:active{
+    .sorting-option a:active{
       color: #000000;
       }
