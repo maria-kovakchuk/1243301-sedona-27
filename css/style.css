@@ -60,10 +60,6 @@ a {
   text-align: center;
 }
 
-
-.visually-hidden {
-
-}
 .reason-1-2 {
   background-color: #81b3d2;
 }
@@ -290,4 +286,9 @@ background-color: #ebebeb;
   color: #000000;
 
   background-color: black;
+}
+
+.features-item {
+  list-style: none;
+
 }
