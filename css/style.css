@@ -365,11 +365,3 @@ background-color: #ebebeb;
   padding-top: 8px;
   padding-bottom: 7px;
 }
-
-.hotels a:hover {
-  color: #81b3d2
-}
-
-.hotels a:active {
-  color: black-30;
-}
