@@ -293,6 +293,23 @@ background-color: #ebebeb;
 
 }
 
+.apartment-features {
+  background-color: white;
+  background-image: url(unclear-view-nature.png);
+  color: white;
+  font-size: 16px;
+  line-height: 21px;
+  text-align: center;
+}
+
+.features-list .features-item {
+  font-size: 14px;
+  line-height: 21px;
+  text-align: center;
+
+}
+
+
 .button-transparent {
   background-color: transparent;
   font-size: 14px;
