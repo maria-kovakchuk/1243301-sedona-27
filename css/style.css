@@ -310,15 +310,19 @@ background-color: #ebebeb;
   border: 2px solid white-three;
   color: white-three;
   text-transform: uppercase;
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-top: 11px;
+  padding-bottom: 11px;
 }
 
-.name-hotels {
+.name-hotels h2 {
   font-size: 21px;
   line-height: 26px;
 
 }
 
-.name-hotels p {
+.name-hotels p  {
   font-size: 14px;
   line-height: 21px;
   color: #333333;
