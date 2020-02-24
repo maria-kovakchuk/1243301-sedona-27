@@ -287,10 +287,10 @@ background-color: #ebebeb;
 }
 
 
-.logo-htmlacademy:focus {
+.logo-htmlacademy img:focus {
   background-color: #81b3d2;
 }
 
-.logo-htmlacademy:active {
+.logo-htmlacademy img:active {
   background-color: #bdbbbc;
 }
