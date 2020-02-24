@@ -208,10 +208,9 @@ text-align: center;
   border-color: lightgrey;
 }
 
-label {
-  display: block;
-  margin-left: 50px;
-  margin-bottom: 60px;
+.arrival-date {
+  margin-left: 55px;
+  margin-top: 80px;
 }
 
 .find-hotel {
