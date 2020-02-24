@@ -32,6 +32,10 @@ a {
   color: black;
 }
 
+.hotels a {
+  color: white;
+}
+
 .site-navigation a:hover,
 .site-navigation a:focus {
   background-color: lightgrey;
