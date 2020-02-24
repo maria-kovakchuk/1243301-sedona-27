@@ -407,3 +407,14 @@ color: #669ec0;
     .sorting-option a:active{
       color: #000000;
       }
+
+      .sorting h2 {
+        font-size: 21px;
+        line-height: 26px;
+        font-weight: 700;
+      }
+
+      .sorting p {
+        font-size: 12px;
+        line-height: 18px;
+      }
