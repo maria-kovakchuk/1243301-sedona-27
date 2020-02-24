@@ -158,8 +158,9 @@ text-align: center;
   text-align: center;
 }
 
-.appointment-item {
-  background-color: white;
+
+.appointment-form {
+  background-color: white; 
 }
 
 .appointment-item input {
@@ -168,9 +169,6 @@ text-align: center;
 
 }
 
-.half-width {
-  background-color: white;
-}
 
 .half-width input {
   border: none;
