@@ -362,10 +362,10 @@ background-color: #ebebeb;
   padding-bottom: 7px;
 }
 
-.name-hotels a:hover {
+.hotels a:hover {
   color: #81b3d2
 }
 
-.name-hotels a:active {
+.hotels a:active {
   color: black-30;
 }
