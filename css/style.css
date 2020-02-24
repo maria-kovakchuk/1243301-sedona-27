@@ -211,6 +211,8 @@ text-align: center;
 .arrival-date {
   margin-left: 55px;
   margin-bottom: 80px;
+  font-size: 14px;
+  line-height: 26px;
 }
 
 .find-hotel {
