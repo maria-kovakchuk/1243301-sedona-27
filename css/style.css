@@ -52,7 +52,7 @@ a {
 
 .site-navigation a:hover,
 .site-navigation a:focus {
-  background-color: darkgrey;
+  background-color: lightgrey;
 }
 
 .white-part {
@@ -158,6 +158,18 @@ text-align: center;
   color: #333333;
   text-align: center;
 }
+
+.appointment-item {
+  border: none;
+
+}
+
+.half-width {
+  border: none;
+
+}
+
+
 
 .search-hotel {
   width: 568px;
