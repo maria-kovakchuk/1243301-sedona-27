@@ -166,13 +166,14 @@ text-align: center;
   line-height: 26px;
   text-align: center;
   background-color: #766357;
+  margin: 316px;
 }
 
 .appointment-form {
 width: 568px;
 height: 395px;
 background-color: white;
-padding: 55px;
+margin: 316px;
 
 }
 
@@ -195,6 +196,7 @@ padding: 55px;
   text-align: center;
   width: 458px;
   height: 58px;
+  padding: 55px;
 }
 
 .footer-contacts {
