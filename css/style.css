@@ -170,62 +170,6 @@ text-align: center;
   margin-left: 316px;
 }
 
-.appointment-form {
-  width: 568px;
-  height: 395px;
-  background-color: white;
-  margin-right: 316px;
-  margin-left: 316px;
-  margin-top: 0px;
-
-}
-
-.appointment-item-1 input {
-  font: inherit;
-
-  background-color: #f2f2f2;
-  border: none;
-  width: 346px;
-  height: 38px;
-  margin-top: 55px;
-  margin-right: 55px;
-  margin-left: 167px;
-}
-
-.appointment-item-2 input {
-  font: inherit;
-
-  background-color: #f2f2f2;
-  border: none;
-  width: 346px;
-  height: 38px;
-  margin-top: 29px;
-  margin-right: 55px;
-  margin-left: 167px;
-}
-
-.appointment-item input:focus {
-  border-color: lightgrey;
-}
-
-.arrival-date {
-  margin-left: 55px;
-  margin-bottom: 80px;
-  font-size: 14px;
-  line-height: 26px;
-}
-
-.find-hotel {
-  background-color: #81b3d2;
-  font-size: 21px;
-  line-height: 26px;
-  text-align: center;
-  width: 458px;
-  height: 58px;
-  margin-right: 55px;
-  margin-left: 55px;
-  margin-bottom: 55px;
-}
 
 .footer-contacts {
   font-size: 21px;
