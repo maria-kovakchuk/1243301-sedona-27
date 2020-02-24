@@ -173,7 +173,8 @@ text-align: center;
   margin-left: 316px;
   background-color: #766357;
   border: none;
-  color: white;
+  color: #ffffff;
+  font-weight: bold;
 }
 
 .button-brown:hover {
@@ -195,7 +196,8 @@ text-align: center;
   width: 458px;
   height: 58px;
   border: none;
-  color: white;
+  color: #ffffff;
+  font-weight: bold;
 }
 
 .button-blue:hover {
