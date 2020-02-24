@@ -27,7 +27,8 @@ a {
   list-style: none;
 }
 
-.site-navigation a {
+.site-navigation a,
+.hotels a {
   color: black;
 }
 
