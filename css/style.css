@@ -22,7 +22,6 @@ button {
 
   background-color: #ffffff;
   border: none;
-  postiom
 }
 
 button:hover,
@@ -159,16 +158,15 @@ text-align: center;
   text-align: center;
 }
 
-.appointment-item {
+.appointment-item input {
   border: none;
-
+  background-color: #f2f2f2;
 }
 
-.half-width {
+.half-width input {
   border: none;
-
+  background-color: #f2f2f2;
 }
-
 
 
 .search-hotel {
@@ -182,6 +180,10 @@ text-align: center;
   margin-left: 316px;
 }
 
+.type {
+
+
+}
 
 .footer-contacts {
   font-size: 21px;
