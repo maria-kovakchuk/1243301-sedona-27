@@ -32,10 +32,6 @@ a {
   color: black;
 }
 
-.hotels a {
-  color: white;
-}
-
 .site-navigation a:hover,
 .site-navigation a:focus {
   background-color: lightgrey;
@@ -348,6 +344,10 @@ background-color: #ebebeb;
   padding-top: 8px;
   padding-bottom: 7px;
   
+}
+
+.button-details a {
+  color: #ffffff;
 }
 
 .button-book {
