@@ -84,33 +84,28 @@
             </li>
           </ul>
         </div>
-      </section>
-        <section class="you-interested">
-          <h2>Заинтересовались?</h2>
-          <p>Укажите предполагаемые даты поездки,<br> и мы покажем вам лучшие предложения гостиниц в Седоне</p>
-          <button type="button" class="search-hotel">Поиск гостиницы в Седоне</button>
-      </section>
       <section>
-        <h2>Записаться</h2>
-        <p>Укажите желаемую дату и время и мы свяжемся с вами для подтверждения брони</p>
+        <h2 class="you-interested">Заинтересовались?</h2>
+        <p>Укажите предполагаемые даты поездки,<br> и мы покажем вам лучшие предложения гостиниц в Седоне</p>
+        <button type="button" class="search-hotel">Поиск гостиницы в Седоне</button>
         <form action="https://echo.htmlacademy.ru" method="post">
           <p>
-            <label for="appointment-date">Дата</label>
-            <input id="appointment-date" type="date" name="date" value="2017-10-08">
+            <label for="check-in">Дата заезда:</label>
+            <input id="check-in" type="date" name="date" value="24 апреля 2017">
           </p>
           <p>
-            <label for="appointment-time">Время</label>
-            <input id="appointment-time" type="time" name="time" value="10:00">
+            <label for="check-out">Дата выезда:</label>
+            <input id="check-out" type="date" name="date" value="4 июля 2017">
           </p>
           <p>
-            <label for="appointment-name">Ваше имя</label>
-            <input id="appointment-name" type="text" name="name" value="" placeholder="Борода">
+            <label for="adults">Взрослые:</label>
+            <input id="adults" type="text" name="adults-quality" value="2">
           </p>
           <p>
-            <label for="appointment-phone">Телефон</label>
-            <input id="appointment-phone" type="tel" name="phone" value="" placeholder="+7 123 456-78-90">
+            <label for="children">Дети:</label>
+            <input id="children" type="text" name="children-quality" value="0">
           </p>
-          <button type="submit">Отправить</button>
+          <button type="submit">Найти</button>
         </form> 
       </section>
           <div>
