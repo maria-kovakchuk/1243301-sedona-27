@@ -370,3 +370,11 @@ background-color: #ebebeb;
 
   color: white;
 }
+
+.name-hotels a:hover{
+background-color: #669ec0;
+}
+
+.name-hotels a:active{
+  background-color: #5496bd;
+  }
