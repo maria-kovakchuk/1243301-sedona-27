@@ -145,13 +145,13 @@ text-align: center;
 
 
 .appointment-form {
-  background-color: white; 
+  background-color: white;
 }
 
 
 .appointment-item input {
   border: none;
-  background-color: #f2f2f2; 
+  background-color: #f2f2f2;
 }
 
 .appointment-item input:hover {
@@ -170,7 +170,7 @@ background-color: #ebebeb;
 .half-width input:hover {
   background-color: #ebebeb;
   }
-  
+
   .half-width input:focus {
     background-color: #ffffff;
     }
@@ -348,7 +348,7 @@ background-color: #ebebeb;
   padding-right: 17px;
   padding-top: 8px;
   padding-bottom: 7px;
-  
+
 }
 
 .button-details a {
@@ -403,7 +403,7 @@ color: #669ec0;
   .sorting-option a:hover{
     color: #669ec0;
     }
-    
+
     .sorting-option a:active{
       color: #000000;
       }
