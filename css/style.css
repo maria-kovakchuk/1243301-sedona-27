@@ -175,7 +175,6 @@ background-color: #ebebeb;
     background-color: #ffffff;
     }
 
-
 .search-hotel {
   width: 568px;
   height: 86px;
@@ -232,7 +231,6 @@ background-color: #ebebeb;
   color: lightgray;
 }
 
-
 .footer-contacts {
   font-size: 21px;
   line-height: 26px;
@@ -259,7 +257,6 @@ background-color: #ebebeb;
 
 .footer-contacts a {
   color: black;
-
 }
 
 .footer-contacts a:hover,
@@ -292,7 +289,6 @@ background-color: #ebebeb;
 
 .features-item {
   list-style: none;
-
 }
 
 .apartment-features {
