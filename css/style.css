@@ -164,6 +164,7 @@ a {
 
 .reason-1-2 {
   background-color: #81b3d2;
+  width: 400px;
 }
 
 .reason-1-2 h2 {
@@ -582,7 +583,6 @@ margin-bottom: 30px;
   line-height: 21px;
   color: #333333;
 }
-
 
 
 .button-details {
