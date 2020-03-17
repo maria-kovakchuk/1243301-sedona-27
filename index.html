@@ -27,7 +27,6 @@
       <main class="container">
         <div class="main-picture-sedona">
           <img class="intro-welcome" src="img/intro-welcome.svg" width="459" height="353" alt="">
-          <div class="white-part"></div>
         </div>
         <div class="main-title">
           <h1>Седона &ndash; небольшой городок в Аризоне, заслуживающий большего!</h1>
@@ -90,7 +89,35 @@
         <section class="you-interested">
           <h2>Заинтересовались?</h2>
           <p>Укажите предполагаемые даты поездки,<br> и мы покажем вам лучшие предложения гостиниц в Седоне</p>
-          <button type="button" class="search-hotel button-brown">Поиск гостиницы в Седоне</button>
+          <div class="booking-container">
+            <button type="button" class="search-hotel button-brown">Поиск гостиницы в Седоне</button>
+            <section class="modal modal-booking">
+              <h2 class="visually-hidden"></h2>
+                <form action="https://echo.htmlacademy.ru" method="post">
+                  <div class="appointment-item">
+                    <div class="date-arrival">
+                      <label for="check-in">Дата заезда:</label>
+                      <input class="login-icon-user" id="check-in" type="text" name="check-in-date" value="24 апреля 2017">
+                    </div>
+                    <div class="date-arrival">
+                      <label for="check-out">Дата выезда:</label>
+                      <input class="login-icon-user" id="check-out" type="text" name="check-out-date" value="4 июля 2017">
+                    </div>
+                  </div>
+                  <div class="half-width-container">
+                    <div class="half-width">
+                      <label for="adults">Взрослые:</label>
+                      <input id="adults" type="text" name="adults-quality" value="2">
+                      </div>
+                      <div class="half-width">
+                      <label for="children">Дети:</label>
+                      <input id="children" type="text" name="children-quality" value="0">
+                    </div>
+                  </div>
+                  <button class="find-hotel button-blue" type="submit">Найти</button>
+                </form>
+            </section>
+          </div>
         </section>
         <div class="map">
         </div>
@@ -117,33 +144,7 @@
               </svg>
             </a>
           </p>
-        </div>
       </footer>
-        <section class="modal modal-login">
-            <form class="login-form" action="https://echo.htmlacademy.ru" method="post">
-              <div class="appointment-item">
-                <div class="date-arrival">
-                  <label for="check-in">Дата заезда:</label>
-                  <input class="login-icon-user" id="check-in" type="text" name="check-in-date" value="24 апреля 2017">
-                </div>
-                <div class="date-arrival">
-                  <label for="check-out">Дата выезда:</label>
-                  <input class="login-icon-user" id="check-out" type="text" name="check-out-date" value="4 июля 2017">
-                </div>
-              </div>
-              <div class="half-width-container">
-                <div class="half-width">
-                  <label for="adults">Взрослые:</label>
-                  <input id="adults" type="text" name="adults-quality" value="2">
-                  </div>
-                  <div class="half-width">
-                  <label for="children">Дети:</label>
-                  <input id="children" type="text" name="children-quality" value="0">
-                </div>
-              </div>
-              <button class="find-hotel button-blue" type="submit">Найти</button>
-            </form>
-        </section>
       <script>
           var link = document.querySelector(".search-hotel");
           var popup = document.querySelector(".modal-login");
